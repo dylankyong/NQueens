@@ -1,0 +1,33 @@
+Dylan Yong
+1605289
+HW1: NQueens
+
+Collaboration: I discussed this lab with Shimon Islam and Allen Yabut.
+We spoke about various ways to solve this lab, but we did not share code.
+
+I used the String Tokenizer from Lab2 to split up the input file.
+
+Files:
+NQueens.java (Primary class with most of the important code)
+Queen.java (Object class with queen properties and functions)
+test-input.txt (Test text input file)
+test-output.txt (Test text output file)
+out.txt (Test for code output)
+Makefile (jar creator)
+README (Notes and sources for HW1)
+
+Resources:
+https://stackoverflow.com/questions/27455742/array-index-out-of-bounds-exception-0
+https://stackoverflow.com/questions/38737686/how-to-create-a-single-jar-to-include-multiple-java-files-from-different-folder
+https://stackoverflow.com/questions/880662/extend-a-java-class-from-one-file-in-another-java-file
+https://javarevisited.blogspot.com/2013/02/windows-8-set-path-and-classpath-java-windows-7.html
+https://stackoverflow.com/questions/8755812/array-length-in-java
+https://stackoverflow.com/questions/18484509/how-i-can-index-the-array-starting-from-1-instead-of-zero
+https://stackoverflow.com/questions/7762848/increment-variable-names
+https://stackoverflow.com/questions/19054209/java-2d-char-array
+https://www.mkyong.com/java/java-convert-string-to-int/
+https://stackoverflow.com/questions/18578864/double-array-initialization-in-java
+https://www.quora.com/How-do-you-create-an-object-in-Java
+https://users.soe.ucsc.edu/~sesh/Teaching/2018/CMPS12B-fall/Slides/lec3.pdf
+https://users.soe.ucsc.edu/~sesh/Teaching/2018/CMPS12B-fall/Slides/lec4.pdf
+https://users.soe.ucsc.edu/~sesh/Teaching/2018/CMPS12B-fall/Slides/lec2.pdf
